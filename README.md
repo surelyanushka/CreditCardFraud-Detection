@@ -24,15 +24,11 @@ This project is aimed at developing a robust Credit Card Fraud Detection system 
 - Data Visualization (e.g., Matplotlib, Seaborn)
 - Anomaly Detection Techniques
 
-## Usage
-
-1. Ensure you have the required Python libraries installed.
-2. Run the Jupyter Notebook files to perform data analysis and model development.
 
 
 ## Contributors
 
-- [Anushka Tawte]
+- Anushka Tawte
 
 
 
